@@ -1,0 +1,783 @@
+{
+        "name": "placeholderName",
+        "css": "placeholderCss",
+        "channel": "WEB_BROWSER",
+        "path": "placeholderPath",
+        "url": "https://www.placeholderurl.de",
+        "cssActive": true,
+        "children": [
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "WEB_BROWSER",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": false,
+            "children": [
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "ALL",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": false,
+            "children": [
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "ALL",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": true,
+            "children": []
+          },
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "ALL",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": false,
+            "children": []
+          },
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "ALL",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": false,
+            "children": []
+          },
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "WEB_BROWSER",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": false,
+            "children": []
+          },
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "WEB_BROWSER",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": false,
+            "children": [
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "WEB_BROWSER",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": false,
+            "children": [
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": [
+                  {
+                    "name": "placeholderName",
+                    "css": "placeholderCss",
+                    "channel": "WEB_BROWSER",
+                    "path": "placeholderPath",
+                    "url": "https://www.placeholderurl.de",
+                    "cssActive": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "ALL",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "WEB_BROWSER",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": false,
+            "children": []
+          },
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "WEB_BROWSER",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": false,
+            "children": []
+          },
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "WEB_BROWSER",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": false,
+            "children": []
+          },
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "WEB_BROWSER",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": false,
+            "children": []
+          },
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "WEB_BROWSER",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": false,
+            "children": []
+          },
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "WEB_BROWSER",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": false,
+            "children": []
+          },
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "WEB_BROWSER",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": false,
+            "children": []
+          },
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "WEB_BROWSER",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": false,
+            "children": []
+          },
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "WEB_BROWSER",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": false,
+            "children": []
+          },
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "WEB_BROWSER",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": false,
+            "children": []
+          },
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "WEB_BROWSER",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": false,
+            "children": []
+          },
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "WEB_BROWSER",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": false,
+            "children": [
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "placeholderName",
+            "css": "placeholderCss",
+            "channel": "WEB_BROWSER",
+            "path": "placeholderPath",
+            "url": "https://www.placeholderurl.de",
+            "cssActive": false,
+            "children": [
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              },
+              {
+                "name": "placeholderName",
+                "css": "placeholderCss",
+                "channel": "WEB_BROWSER",
+                "path": "placeholderPath",
+                "url": "https://www.placeholderurl.de",
+                "cssActive": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+      
