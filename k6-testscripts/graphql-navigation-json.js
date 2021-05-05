@@ -26,7 +26,7 @@ export let options = {
 		base: {
 			executor: 'constant-arrival-rate',
 			gracefulStop: '10s',
-			rate: 500, // Number of iterations to execute each timeUnit period.
+			rate: 1500, // Number of iterations to execute each timeUnit period.
 			timeUnit: '1s', // Period of time to apply the rate value.
 			duration: '10s', // Total scenario duration (excluding gracefulStop)
 			preAllocatedVUs: 500, // Number of VUs to pre-allocate before test start in order to preserve runtime resources.
@@ -47,7 +47,7 @@ export function base() {
 
 	var body = {
 
-		query: '{navigation{name channel cssActive url path children{name channel cssActive url path children{name channel cssActive url path children{name channel cssActive url path}}}}}',
+		query: '{json}',
 		variables: {}
 	}
 	let res1 = http.post(`http://localhost:8080/graphql`, JSON.stringify(body), params)

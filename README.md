@@ -13,8 +13,9 @@ Please execute the given files in the k6-testscripts folder using:
 
 
 ```
-k6 run json.js
-k6 run navigation.js
+k6 run graphql-navigation.js
+k6 run graphql-navigation-json.js
+k6 run rest-navigation.js
 ```
 
 respectively.
@@ -23,13 +24,13 @@ Observation:
 
 The runner (VUs) are rapidly increasing using the navigation query schema compared to the json response schema.
 
-The json runner uses:
+The json runner uses the following query:
 
 ```
 {json}
 ```
 
-as a query while the navigation runner uses:
+while the navigation runner uses the following query:
 
 
 ```
@@ -66,3 +67,13 @@ as a query while the navigation runner uses:
 
 
 ```
+
+
+Graphql using json query results:  
+![alt text](https://github.com/janknobloch/graphql-performance-reproducer/blob/master/k6-testscripts/graphql-navigation-json-results.png "")
+
+Graphql using internal query results:  
+![alt text](https://github.com/janknobloch/graphql-performance-reproducer/blob/master/k6-testscripts/graphql-navigation-results.png "")
+
+REST using a simple rest query results:  
+![alt text](https://github.com/janknobloch/graphql-performance-reproducer/blob/master/k6-testscripts/rest-navigation-results.png "")
